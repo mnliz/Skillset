@@ -4,8 +4,10 @@ A reverse approach to job searching that generates reports on what the "unicorn"
 Additional features
 
 TECH STACK CHECKLIST (in no particular order):
-- [ ] Front-end
+- [ ] Frontend
 - [ ] Backend
+  - [ ] Agentic Workflow 
 - [ ] Database
 - [ ] Infrastructure
 - [ ] Tools and services
+  - [ ] APIs
