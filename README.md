@@ -1,13 +1,25 @@
 # Unicorn
-A reverse approach to job searching that generates reports on what the "unicorn" candidate looks like dependent on 
+A reverse approach to job searching that generates reports on what the "unicorn" candidate looks like dependent on target job description.
 
-Additional features
+FEATURES:
+- Weekly Reports
+- Easy to navigate UI with report feeds
+- Historical Statistics
 
-TECH STACK CHECKLIST (in no particular order):
-- [ ] Frontend
-- [ ] Backend
-  - [ ] Agentic Workflow 
-- [ ] Database
-- [ ] Infrastructure
-- [ ] Tools and services
-  - [ ] APIs
+
+TECH STACK:
+- React
+- Flask
+- Python
+- RAG / Agentic Capability
+- Elasticsearch
+- Job board APIs
+- AWS
+- Docker
+
+PROGRESS ORDER: 
+- [ ] Data + API Setup
+- [ ] ETL
+- [ ] Server Integration
+- [ ] UI
+- [ ] Containerization
